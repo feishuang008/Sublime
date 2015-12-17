@@ -1,0 +1,24 @@
+{
+	"auto_complete": true,
+	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"fold_buttons": true,
+	"font_face": "Consolas",
+	"font_size": 13.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"YUI Compressor"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"match_tags": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word-wrap": true
+}

@@ -1,0 +1,529 @@
+{
+	"folder_history":
+	[
+		"/C/Users/qlx/Desktop/require",
+		"/C/Users/qlx/Desktop/test/redux/examples/todomvc",
+		"/C/Users/qlx/Desktop/test/redux/examples/counter",
+		"/C/Users/qlx/Desktop/test/redux",
+		"/C/Users/qlx/Desktop/ds-front/zongbu",
+		"/C/Users/qlx/Desktop/work",
+		"/C/Users/qlx/Documents/ds-front",
+		"/C/Users/qlx/Documents/ds-front/dashe",
+		"/C/Users/qlx/Documents/ds-front/zongbu",
+		"/C/Users/qlx/Desktop/test",
+		"/C/Users/qlx/Desktop/react-tutorial-master",
+		"/C/Users/qlx/Desktop/ds-front"
+	],
+	"last_version": 3083,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"han",
+						"handleTagClick"
+					],
+					[
+						"R",
+						"REQUEST_URL"
+					],
+					[
+						"rcc",
+						"rcc	React: class component"
+					],
+					[
+						"c",
+						"console.	console.group(name)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/qlx/Desktop/test.js",
+					"settings":
+					{
+						"buffer_size": 798,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pcls",
+				"selected_items":
+				[
+					[
+						"pcls",
+						"Package Control: List Packages"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"pcis",
+						"Package Control: Install Package"
+					],
+					[
+						"styl",
+						"Set Syntax: Stylus"
+					],
+					[
+						"babel",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"pclp",
+						"Package Control: List Packages"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"pcip",
+						"Package Control: Install Package"
+					],
+					[
+						"pcrp",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 159.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+			],
+			"file_history":
+			[
+				"/C/Users/qlx/Desktop/require/project.html",
+				"/C/Users/qlx/Desktop/require/scripts/help/util.js",
+				"/C/Users/qlx/Desktop/require/scripts/main.js",
+				"/C/Users/qlx/Desktop/test.js",
+				"/C/Users/qlx/Desktop/emitter.js",
+				"/C/Users/qlx/Desktop/关闭node进程.bat",
+				"/C/Users/qlx/Desktop/require.min.js",
+				"/C/Users/qlx/Desktop/require.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/app.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/server.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/containers/App.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/index.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/webpack.config.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/store/configureStore.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/actions/todos.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/reducers/todos.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/constants/TodoFilters.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/index.html",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/components/Header.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/components/Footer.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/components/TodoTextInput.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/components/MainSection.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/package.json",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/components/LineQuery.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/utils/render.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/utils/fetch.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/client/lineQuery/main.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/store/configureClientStore.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/constants/ActionTypes.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/components/Search.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/actions/LineQueryActions.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/reducers/lineQuery.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/reducers/search.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/actions/SearchActions.js",
+				"/C/Users/qlx/Desktop/test/redux/docs/api/compose.md",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/reducers/index.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/todomvc/components/TodoItem.js",
+				"/C/Users/qlx/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/containers/App.js",
+				"/C/Users/qlx/Desktop/demo/package.json",
+				"/C/Users/qlx/Desktop/ds-front/zongbu/test.js",
+				"/C/Users/qlx/Desktop/s.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/node_modules/express/package.json",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/server/resource/phpapi.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/routes/index.js",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/iso/resource/apiServer.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/components/CitySelect.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/client/search/main.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/containers/App.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/view/index.html",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/api/lineQuery.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/components/Query.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/resource/index.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/api/search.node.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/reducers/index.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/store/configureStore.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/reducers/counter.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/components/Counter.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/actions/counter.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/.babelrc",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/package.json",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/test/test.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/index.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/reducers/index.js",
+				"/C/Users/qlx/Desktop/test/redux/examples/counter/index.html",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/config/titles.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/config/phpapi.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/client/lineQuery/index.styl",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/server/api/index.js",
+				"/G/AppServ/Apache2.2/conf/httpd.conf",
+				"/C/Users/qlx/Desktop/ds-front/zongbu/tests.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/webpack.config.dev.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/client/common/style/query.styl",
+				"/C/Users/qlx/Desktop/work/test.js",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/server/api/lineQuery.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/dist/iso/store/configureClientStore.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/utils/statics.js",
+				"/C/Users/qlx/Desktop/work/src/render.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/api/index.js",
+				"/C/Users/qlx/Desktop/work/src/server.js",
+				"/C/Users/qlx/Desktop/work/webpack.config.js",
+				"/C/Users/qlx/Desktop/ds-front/zongbu/testdata.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/webpack.config.pro.js",
+				"/C/Users/qlx/Desktop/work/package.json",
+				"/C/Users/qlx/Desktop/work/src/index.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/components/header.js",
+				"/C/Users/qlx/Desktop/work/.babelrc",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/models/search.js",
+				"/C/Users/qlx/Desktop/D2171 瑞友木门/ziye.html",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/models/mongoose.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/npm-debug.log.be46ef4a4a2011c990ef6225c49d04aa",
+				"/C/Users/qlx/Documents/ds-front/dashe/package.json",
+				"/C/Users/qlx/Documents/ds-front/zongbu/webpack.config.dev.js",
+				"/C/Users/qlx/Desktop/web/index.html",
+				"/C/Users/qlx/Documents/ds-front/dashe/.babelrc",
+				"/C/Users/qlx/Desktop/work/webpack.config.dev.js",
+				"/C/Users/qlx/Desktop/work/src/server/config/phpapi.js",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/server/api/lineSearch.js",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/server/utils/render.js",
+				"/C/Users/qlx/Desktop/work/src/server/app.js",
+				"/C/Users/qlx/Desktop/work/src/server/utils/render.js",
+				"/C/Users/qlx/Desktop/work/src/iso/store/configureClientStore.js",
+				"/C/Users/qlx/Desktop/work/src/iso/routes/index.js",
+				"/C/Users/qlx/Desktop/work/src/iso/containers/App.js",
+				"/C/Users/qlx/Desktop/work/src/iso/actions/searchActions.js",
+				"/C/Users/qlx/Desktop/work/src/iso/config/apiServer.js",
+				"/C/Users/qlx/Desktop/work/common.js",
+				"/C/Users/qlx/Desktop/work/bundle.js.map",
+				"/C/Users/qlx/Desktop/work/bundle.js",
+				"/C/Users/qlx/Desktop/work/server.js",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/iso/pages/lineQuery.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/api/search.php.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/client/search/index.styl",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/resource/stats.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/resource/stats.json",
+				"/C/Users/qlx/Documents/ds-front/dashe/dist/server/resource/index.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/config/apiServer.js",
+				"/C/Users/qlx/Desktop/ds-front/zongbu/src/server/mock/hotTag.json",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/iso/store/configureServerStore.js",
+				"/C/Users/qlx/Documents/ds-front/dashe/src/server/view/layout.html",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/iso/routes/routes.js",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/iso/pages/lineSearch.js",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/server/app.js",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/server/view/base/layout_pc.html",
+				"/C/Users/qlx/Documents/ds-front/zongbu/src/server/utils/fetch.js",
+				"/C/Users/qlx/Desktop/ds-front/zongbu/src/server/utils/render.js",
+				"/C/Users/qlx/Documents/ds-front/zongbu/package.json",
+				"/C/Users/qlx/Desktop/react-tutorial-master/test.js"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 129.0,
+				"where_history":
+				[
+					"C:\\Users\\qlx\\Desktop\\test\\redux\\examples\\todomvc",
+					"C:\\Users\\qlx\\Documents\\ds-front\\dashe\\src",
+					"C:\\Users\\qlx\\Desktop\\work\\src",
+					"C:\\Users\\qlx\\Documents\\ds-front\\dashe",
+					"C:\\Users\\qlx\\Documents\\ds-front\\dashe\\src\\server",
+					"C:\\Users\\qlx\\Documents\\ds-front\\zongbu",
+					"C:\\Users\\qlx\\Documents\\ds-front\\zongbu\\src",
+					"C:\\Users\\qlx\\Documents\\ds-front\\zongbu"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"oString",
+					"ostring",
+					"compiler",
+					"this.context.allData",
+					"onsave",
+					"onSave",
+					"classnames",
+					"placeholder",
+					"Dispatch",
+					"dispatch",
+					"TodoActions",
+					"configureStore",
+					"RedisStore",
+					"connectRedis",
+					"createHref",
+					"this.context.allData.query",
+					"provData",
+					"query",
+					"cate_id",
+					"handlerFilterClick",
+					"activeClass",
+					"activeClass=`active`",
+					"tag",
+					"Tag",
+					"tag_name",
+					"WEB_URL",
+					"9002",
+					"9003",
+					"search",
+					"forEach",
+					"travel_name",
+					"SearchLine",
+					"searchLine",
+					"renderProps",
+					"mquery",
+					"appRoot",
+					"`",
+					"filterRequest",
+					"getLines",
+					",\n",
+					"assetsByChunkName",
+					"search.css",
+					"stats",
+					"assetsByChunkName",
+					"name",
+					"handleClick",
+					"renderResult",
+					"requestPaginationHnadler",
+					"render",
+					"filters",
+					"line_type_list",
+					"Root",
+					"REQUEST_URL",
+					"initialState",
+					"REQUEST_URL",
+					"routes",
+					"ReactDOMServer",
+					"finalhandler",
+					"\"",
+					"cate_id",
+					"tag_name",
+					"hotDatas",
+					"React.render",
+					"const",
+					"compiler",
+					"redux",
+					"done",
+					"ret",
+					"next",
+					"done",
+					"req",
+					"REQ",
+					"req",
+					"params",
+					"routes",
+					"defineProperty",
+					"Handle",
+					"handle",
+					"deprecate",
+					"proto",
+					"();",
+					"`"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\qlx\\Documents\\ds-front"
+				},
+				{
+					"path": "C:\\Users\\qlx\\Desktop\\test\\redux\\examples\\counter"
+				},
+				{
+					"path": "C:\\Users\\qlx\\Desktop\\test\\redux\\examples\\todomvc"
+				},
+				{
+					"path": "C:\\Users\\qlx\\Desktop\\require"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/qlx/Desktop/test.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 798,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										694,
+										694
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+								},
+								"translation.x": -0.0,
+								"translation.y": 504.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 243.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/babel.sublime-build",
+			"position": "0,2,3,-32000,-32000,-1,-1,591,52,52,708",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 141.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
