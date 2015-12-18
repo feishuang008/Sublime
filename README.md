@@ -16,4 +16,4 @@ settings of sublime
 
 说明：
 - Babel功能需要安装Node和Babel，快捷键为CTRL+B。
-- 还安装了CSS展开与折叠的功能
+- 还安装了CSS展开与折叠的功能，快捷键为CTRL+ALT+[和CTRL+ALT+]。
